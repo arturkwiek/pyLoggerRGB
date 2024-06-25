@@ -60,5 +60,4 @@ def capture_and_display():
     cap.release()
     cv2.destroyAllWindows()
 
-
 capture_and_display()
